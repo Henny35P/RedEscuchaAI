@@ -1,0 +1,5 @@
+* RedEscucha classify comments
+This repository contains a python program which will take a complaint, rate it according if it contains certain keywords
+and return a score depending on which categories were chosen.
+In the future, this program will use I.A to make this process smoother and learn keywords from all the complaints.
+It will also be able to return a comments presenting the main problems which the users of the system are having.
